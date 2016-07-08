@@ -1,4 +1,4 @@
-You've reached this gist from http://jobs.lever.co/swift-nav. As part of submitting your application form, please include an answer to this question.
+You've reached this page from http://jobs.lever.co/swift-nav. As part of submitting your application form, please include an answer to this question.
 
 # GNSS Candidates
 
