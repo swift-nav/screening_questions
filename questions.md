@@ -1,6 +1,6 @@
 # Swift Navigation Application Questions
 
-You've reached this page from http://jobs.lever.co/swift-nav. As part of submitting your application form, please include an answer to this question.
+You've reached this page from http://jobs.lever.co/swift-nav. As part of submitting your application form, please answer the question below that corresponds to the role you are applying for.
 
 ## Software, Product, and Embedded Engineering Candidates
 
@@ -22,4 +22,3 @@ How do you test decide whether a given set of real-valued observations are drawn
 ## GNSS Candidates
 
 Explain, briefly, the main error terms contributing to positioning error in GPS satellite navigation. How are these eliminated in differential GPS? What error sources remain?
-
