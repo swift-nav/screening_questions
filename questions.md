@@ -17,7 +17,8 @@ Please upload your code to GitHub or bitbucket and post a link to the repo or gi
 
 ## Estimation Candidates
 
-How do you test decide whether a given set of real-valued observations are drawn from a Gaussian distribution? Given a streaming time series of real-valued, scalar observations, describe an online algorithm for determining a linear Gaussian model of these observations as a function of time step.
+- How do you test whether a given set of real-valued observations are drawn from a Gaussian distribution?
+- Given a streaming time series of real-valued, scalar observations, describe an online algorithm for determining a linear Gaussian model of these observations as a function of time step.
 
 ## GNSS Candidates
 
